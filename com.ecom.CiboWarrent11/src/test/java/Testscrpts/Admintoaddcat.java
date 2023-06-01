@@ -38,6 +38,7 @@ public class Admintoaddcat extends Baseclass
 @Test (retryAnalyzer=ciboGenriclibraries.Retryanlazer1.class)        // (groups="Integration")
 public void addcattestng()throws Throwable, Throwable
 	{
+	//Integration testcase
 		ExcelUtility excel = new ExcelUtility();
 		FileUtility File = new FileUtility();
 		 JavaUtility j = new JavaUtility();
