@@ -21,6 +21,7 @@ import ciboGenriclibraries.WebdriverUtility;
 @Listeners(ciboGenriclibraries.Listeners.class)
 public class AddResturant extends Baseclass
 {
+//Welcome to this application
      @Test(groups="Integration")
 	public void Admin() throws Throwable
 	{
