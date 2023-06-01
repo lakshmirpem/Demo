@@ -88,7 +88,7 @@ public void addcattestng()throws Throwable, Throwable
 			Reporter.log("Test case is pass");
 
 		
-		// logout from the Application
+		// logout from the Application is done sucessfully
 		
 	}
 
